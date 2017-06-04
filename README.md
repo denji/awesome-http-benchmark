@@ -22,6 +22,7 @@ HTTP(S) Benchmark Tools
 * [__mgun__](https://github.com/byorty/mgun) – A modern tool for load testing HTTP servers, written in Go (`golang`)
 * [__pounce__](https://github.com/X4/pounce) – evented, but results fluctuate, it's sometimes faster than `htstress`, written in `C`
 * [__siege__](http://www.joedog.org/siege-home/) – slow and single threaded, written in `C`
+* [__slapper__](https://github.com/ikruglov/slapper) – Simple load testing tool with real-time updated histogram of request timings, written in Go (`golang`)
 * [__slow_cooker__](https://github.com/BuoyantIO/slow_cooker) – A load tester focused on lifecycle issues and long-running tests, service with a predictable load and concurrency level for a long period of time, written in Go (`golang`)
 * [__sniper__](https://github.com/lubia/sniper) – powerful & high-performance http load tester, written in Go (`golang`)
 * [__tsung__](http://tsung.erlang-projects.org/) – Simulate stress users in order to test the scalability and performance of IP based client/server applications `HTTP`, `WebDAV`, `SOAP`, `PostgreSQL`, `MySQL`, `LDAP` and `Jabber`/`XMPP` servers, written in `Erlang`
