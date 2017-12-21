@@ -10,6 +10,7 @@ HTTP(S) Benchmark Tools
 * [__bombardier__](https://github.com/codesenberg/bombardier) – Fast crossplatform HTTP benchmarking tool, written in Go (`golang`)
 * [__curl-loader__](http://curl-loader.sourceforge.net/) – performance loading of various application services and traffic generation, written in `C`
 * [__fasthttploader__](https://github.com/hagen1778/fasthttploader) – benchmark (kinda ab) with autoadjustment and charts based on fasthttp library, write in Go (`golang`)
+* [__fortio__](https://github.com/istio/fortio) – load testing library and command line tool and web UI. Allows to specify a set query-per-second load and record latency histograms and other useful stats, write in Go (`golang`)
 * [__gatling__](http://gatling.io) – High performance load testing framework based on Scala, Akka and Netty, write in `Scala`
 * [__goad__](https://github.com/gophergala2016/goad) – Goad is an AWS Lambda powered, highly distributed, load testing tool, write in Go (`golang`)
 * [__gobench__](https://github.com/cmpxchg16/gobench) – HTTP/HTTPS load testing and benchmarking tool, write in Go (`golang`)
