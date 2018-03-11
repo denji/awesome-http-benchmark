@@ -48,6 +48,7 @@ Toolkit for testing/debugging HTTP(S) and restAPI (RESTful)
   - [Online curl command line builde](https://curlbuilder.com/)
 * [__curlconverter__](https://github.com/NickCarneiro/curlconverter) – convert curl commands to python, javascript, php
 * [__httpie__](https://github.com/jkbrzt/httpie) – client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, written in `Python`
+* [__jaggr__](https://github.com/rs/jaggr) – JSON Aggregation CLI, Jaggr can be used to integrate [vegeta](https://github.com/tsenart/vegeta) with [jplot](https://github.com/rs/jplot), written in Go (`golang`)
 * [__jq__](https://github.com/stedolan/jq) – is a lightweight and flexible command-line JSON processor, written in `C`
 
 SaaS/PaaS
