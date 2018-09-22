@@ -12,6 +12,7 @@ HTTP(S) Benchmark Tools
 * [__curl-loader__](http://curl-loader.sourceforge.net/) – performance loading of various application services and traffic generation, written in `C`
 * [__drill__](https://github.com/fcsonline/drill) – Drill is a HTTP load testing application inspired by Ansible syntax, written in `Rust`
 * [__fasthttploader__](https://github.com/hagen1778/fasthttploader) – benchmark (kinda ab) with autoadjustment and charts based on fasthttp library, write in Go (`golang`)
+* [__fbender__](https://github.com/facebookincubator/fbender) – A load-testing command line tool for generic network protocols (**`HTTP`**, `DNS`, `DHCP`, …), written in Go (`golang`)
 * [__fortio__](https://github.com/istio/fortio) – load testing library and command line tool and web UI. Allows to specify a set query-per-second load and record latency histograms and other useful stats, write in Go (`golang`)
 * [__gatling__](http://gatling.io) – High performance load testing framework based on Scala, Akka and Netty, write in `Scala`
 * [__go-wrk__](https://github.com/tsliwowicz/go-wrk) – a HTTP benchmarking tool based in spirit on the excellent wrk tool ([`wg/wrk`](https://github.com/wg/wrk)), write in Go (`golang`)
