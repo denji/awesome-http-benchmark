@@ -13,6 +13,7 @@ HTTP(S) Benchmark Tools
 * [__drill__](https://github.com/fcsonline/drill) – Drill is a HTTP load testing application inspired by Ansible syntax, written in `Rust`
 * [__fasthttploader__](https://github.com/hagen1778/fasthttploader) – benchmark (kinda ab) with autoadjustment and charts based on fasthttp library, written in Go (`golang`)
 * [__fbender__](https://github.com/facebookincubator/fbender) – A load-testing command line tool for generic network protocols (`HTTP`, `DNS`, `DHCP`, …), written in Go (`golang`)
+* [__finshir__](https://github.com/Gymmasssorla/finshir) – A coroutines-driven Low & Slow traffic sender, written in `Rust`
 * [__fortio__](https://github.com/istio/fortio) – load testing library and command line tool and web UI. Allows to specify a set query-per-second load and record latency histograms and other useful stats, written in Go (`golang`)
 * [__gatling__](http://gatling.io) – High performance load testing framework based on Scala, Akka and Netty, written in `Scala`
 * [__go-wrk__](https://github.com/tsliwowicz/go-wrk) – a HTTP benchmarking tool based in spirit on the excellent wrk tool ([`wg/wrk`](https://github.com/wg/wrk)), written in Go (`golang`)
@@ -27,7 +28,7 @@ HTTP(S) Benchmark Tools
 * [__jmeter__](http://jmeter.apache.org/) – Apache  JMeter™, pure application designed to load test performance both on static and dynamic resources, written in `Java`
 * [__k6__](https://github.com/loadimpact/k6) - A modern load testing tool scriptable in ES6 JS with support for HTTP/1.1, HTTP/2.0 and WebSocket, written in Go (`golang`)
 * [__locust__](https://locust.io/) – easy-to-use, distributed load testing tool with real-time web UI. Simulates a swarm of concurrent users, the behavior of each of them is defined by your python code. Written in `Python`
-* [__lor-axe__](https://github.com/ajmwagar/lor-axe) – A multi-threaded, low-bandwidth HTTP Slowloris DoS tool that handles connections and sockets in parallel , written in `Rust`
+* [__lor-axe__](https://github.com/ajmwagar/lor-axe) – A multi-threaded, low-bandwidth HTTP Slowloris DoS tool that handles connections and sockets in parallel, written in `Rust`
 * [__mgun__](https://github.com/byorty/mgun) – A modern tool for load testing HTTP servers, written in Go (`golang`)
 * [__pounce__](https://github.com/X4/pounce) – evented, but results fluctuate, it's sometimes faster than `htstress`, written in `C`
 * [__siege__](http://www.joedog.org/siege-home/) – slow and single threaded, written in `C`
