@@ -21,6 +21,7 @@ HTTP(S) Benchmark Tools
 * [__gobench__](https://github.com/cmpxchg16/gobench) – HTTP/HTTPS load testing and benchmarking tool, written in Go (`golang`)
 * [__gohttpbench__](https://github.com/parkghost/gohttpbench) – `ab`-like benchmark tool run on multi-core cpu, written in Go (`golang`)
 * [__goloris__](https://github.com/valyala/goloris) – Slowloris for NGINX DoS attack, written in Go (`golang`)
+* [__h2load__](https://nghttp2.org/documentation/h2load-howto.html) - benchmarking tool for HTTP/2 and HTTP/1.1. It supports SSL/TLS and clear text for all supported protocols, written in `C`/`C++`
 * [__hey__](https://github.com/rakyll/hey) – HTTP(S) load generator, ApacheBench (`ab`) replacement, formerly known as [__rakyll/boom__](https://github.com/rakyll/boom), written in Go (`golang`)
 * [__htstress__](https://github.com/arut/htstress) – multithreading high-load bechmarking services (>5K rps), written in `C`/`Linux`
 * [__httperf__](https://github.com/httperf/httperf) – difficult configuration, slow and single threaded, written in `C`
