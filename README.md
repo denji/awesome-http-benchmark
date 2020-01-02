@@ -6,6 +6,7 @@ HTTP(S) Benchmark Tools
 =======================
 * [__ab__](http://en.wikipedia.org/wiki/ApacheBench) – slow and single threaded, written in `C`
 * [__apib__](https://github.com/apigee/apib) – most of the features of ApacheBench (`ab`), also designed as a [more modern replacement](https://github.com/apigee/apib#design), written in `C`
+* [__autocannon__](https://github.com/mcollina/autocannon) – fast HTTP/1.1 benchmarking tool written in Node.js
 * [__baloo__](https://github.com/h2non/baloo) – Expressive end-to-end HTTP API testing made easy, written in Go (`golang`)
 * [__baton__](https://github.com/americanexpress/baton) – HTTP load testing, written in Go (`golang`)
 * [__bombardier__](https://github.com/codesenberg/bombardier) – Fast crossplatform HTTP benchmarking tool, written in Go (`golang`)
