@@ -63,7 +63,7 @@ Toolkit for testing/debugging HTTP(S) and restAPI (RESTful)
   * [__curlie__](https://curlie.io) – If you like the interface of [HTTPie](https://httpie.org) but miss the features of [curl](https://curl.haxx.se), curlie is what you are searching for. Curlie is a drop-in replacement for `httpie` that use `curl` to perform operations, written in Go (`golang`)
 * [__jaggr__](https://github.com/rs/jaggr) – JSON Aggregation CLI, Jaggr can be used to integrate [vegeta](https://github.com/tsenart/vegeta) with [jplot](https://github.com/rs/jplot), written in Go (`golang`)
 * [__jq__](https://github.com/stedolan/jq) – is a lightweight and flexible command-line JSON processor, written in `C`
-* [__httpstat__](https://github.com/davecheney/httpstat) - It's like curl -v, with colours
+* [__httpstat__](https://github.com/reorx/httpstat) - It's like curl -v, with colours
 * [__postwoman__](https://github.com/liyasthomas/postwoman) - API request builder
 
 SaaS/PaaS
