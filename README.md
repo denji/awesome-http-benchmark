@@ -65,7 +65,7 @@ Toolkit for testing/debugging HTTP(S) and restAPI (RESTful)
 * [__jq__](https://github.com/stedolan/jq) – is a lightweight and flexible command-line JSON processor, written in `C`
 * [__httpstat__](https://github.com/davecheney/httpstat) - It's like curl -v, with colours
 * [__postwoman__](https://github.com/liyasthomas/postwoman) - API request builder
-* [Insomnia - Desktop REST API Client](https://insomnia.rest/) - simple, beautiful, and free REST API client (`Mac`, `Windows`, and `Linux`)
+* [__Insomnia__](https://insomnia.rest/) - simple, beautiful, and free Desktop REST API client (`Mac`, `Windows`, and `Linux`)
 
 SaaS/PaaS
 =========
