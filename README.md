@@ -65,16 +65,10 @@ Toolkit for testing/debugging HTTP(S) and restAPI (RESTful)
 * [__jq__](https://github.com/stedolan/jq) – is a lightweight and flexible command-line JSON processor, written in `C`
 * [__httpstat__](https://github.com/davecheney/httpstat) - It's like curl -v, with colours
 * [__postwoman__](https://github.com/liyasthomas/postwoman) - API request builder
+* [Insomnia - Desktop REST API Client](https://insomnia.rest/) - simple, beautiful, and free REST API client (`Mac`, `Windows`, and `Linux`)
 
 SaaS/PaaS
 =========
 * [__BlazeMeter__](https://blazemeter.com/) – offers a cross-enterprise test automation framework for the entire technical team (developers, devops, ops and QA) throughout the product development lifecycle. Run continuous or ‘on demand’ testing for APIs, mobile apps and websites. Run from the cloud, on-premise or as a hybrid solution. Use with JMeter &amp; Selenium WebDriver &amp; integrate with your existing CI, CD &amp; APM tools.
 * [__NewRelic__](http://newrelic.com/) – software analytics tool suite used by developers, ops, and software companies to understand how your applications are performing in development and production
 * [__NGINX Amplify__](https://amplify.nginx.com/) – Visually identify performance bottlenecks, overloaded servers, or potential DDoS attacks. Improve and optimize NGINX performance with intelligent advice and recommendations. Get alerts when something is wrong with the delivery of your application. Plan capacity and performance for web applications. Keep track of systems running NGINX [<sup>1</sup>](https://www.nginx.com/blog/announcing-amplify/)
-
-
-Links
-=====
-- [Multi-Mechanize | Performance Test Framework](http://testutils.org/multi-mechanize/)
-- [Performance test tools list](http://www.opensourcetesting.org/performance.php)
-- [REST API client](https://insomnia.rest/) - simple, beautiful, and free REST API client (`Mac`, `Windows`, and `Linux`)
