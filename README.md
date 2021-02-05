@@ -63,11 +63,11 @@ Toolkit for testing/debugging HTTP(S) and restAPI (RESTful)
 * [__curlconverter__](https://github.com/NickCarneiro/curlconverter) – convert curl commands to python, javascript, php
 * [__httpie__](https://github.com/jkbrzt/httpie) – client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, written in `Python`
   * [__curlie__](https://curlie.io) – If you like the interface of [HTTPie](https://httpie.org) but miss the features of [curl](https://curl.haxx.se), curlie is what you are searching for. Curlie is a drop-in replacement for `httpie` that use `curl` to perform operations, written in Go (`golang`)
+* [__hoppscotch__](https://github.com/hoppscotch/hoppscotch) - API request builder
+* [__httpstat__](https://github.com/reorx/httpstat) - It's like curl -v, with colours
+* [__insomnia__](https://insomnia.rest/) - simple, beautiful, and free Desktop REST API client (`Mac`, `Windows`, and `Linux`)
 * [__jaggr__](https://github.com/rs/jaggr) – JSON Aggregation CLI, Jaggr can be used to integrate [vegeta](https://github.com/tsenart/vegeta) with [jplot](https://github.com/rs/jplot), written in Go (`golang`)
 * [__jq__](https://github.com/stedolan/jq) – is a lightweight and flexible command-line JSON processor, written in `C`
-* [__httpstat__](https://github.com/reorx/httpstat) - It's like curl -v, with colours
-* [__hoppscotch__](https://github.com/hoppscotch/hoppscotch) - API request builder
-* [__Insomnia__](https://insomnia.rest/) - simple, beautiful, and free Desktop REST API client (`Mac`, `Windows`, and `Linux`)
 
 SaaS/PaaS
 =========
