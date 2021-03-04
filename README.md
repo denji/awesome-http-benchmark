@@ -34,6 +34,8 @@ HTTP(S) Benchmark Tools
 * [__locust__](https://locust.io/) – easy-to-use, distributed load testing tool with real-time web UI. Simulates a swarm of concurrent users, the behavior of each of them is defined by your python code. Written in `Python`
 * [__lor-axe__](https://github.com/ajmwagar/lor-axe) – A multi-threaded, low-bandwidth HTTP Slowloris DoS tool that handles connections and sockets in parallel, written in `Rust`
 * [__mgun__](https://github.com/byorty/mgun) – A modern tool for load testing HTTP servers, written in Go (`golang`)
+* [__NBomber__](https://github.com/PragmaticFlow/NBomber) – Modern and flexible load testing framework for Pull and Push scenarios, designed to test any system regardless a protocol (HTTP/WebSockets/AMQP etc) or a semantic model (Pull/Push), written in F# (`F Sharp`)
+* [__Netling__](https://github.com/hallatore/Netling) – Netling is a load tester client for easy web testing., written in C# (`C Sharp`)
 * [__oha__](https://github.com/hatoo/oha) – HTTP load generator, inspired by rakyll/hey with tui animation, written in `Rust`
 * [__pounce__](https://github.com/fredrikwidlund/pounce) – event-driven with a similar interface as `wrk` but with the ambition to potentially achieve lower latency and higher throughout, written in `C`
 * [__siege__](http://www.joedog.org/siege-home/) – slow and single threaded, written in `C`
