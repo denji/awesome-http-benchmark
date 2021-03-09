@@ -28,6 +28,7 @@ HTTP(S) Benchmark Tools
 * [__htstress__](https://github.com/arut/htstress) – multithreading high-load bechmarking services (>5K rps), written in `C`/`Linux`
 * [__httperf__](https://github.com/httperf/httperf) – difficult configuration, slow and single threaded, written in `C`
 * [__httping__](https://github.com/flok99/httping) - Ping with HTTP requests, see http://www.vanheusden.com/httping/, written in `C`
+* [__httpit__](https://github.com/gonetx/httpit) - A rapid http(s) benchmark tool, written in `golang`
 * [__inundator__](https://github.com/opsengine/inundator) – A simple and high-throughput HTTP flood program, written in `C`/`Linux`
 * [__jmeter__](http://jmeter.apache.org/) – Apache  JMeter™, pure application designed to load test performance both on static and dynamic resources, written in `Java`
 * [__k6__](https://github.com/loadimpact/k6) - A modern load testing tool scriptable in ES6 JS with support for HTTP/1.1, HTTP/2.0 and WebSocket, written in Go (`golang`)
