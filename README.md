@@ -13,6 +13,7 @@ HTTP(S) Benchmark Tools
 * [__bombardier__](https://github.com/codesenberg/bombardier) – Fast crossplatform HTTP benchmarking tool, written in Go (`golang`)
 * [__cassowary__](https://github.com/rogerwelin/cassowary) – is a modern HTTP(S), intuitive & cross-platform load testing tool, written in Go (`golang`)
 * [__curl-loader__](http://curl-loader.sourceforge.net/) – performance loading of various application services and traffic generation, written in `C`
+* [__ddosify__](https://github.com/ddosify/ddosify) – High-performance load testing tool, written in Go (`golang`)
 * [__drill__](https://github.com/fcsonline/drill) – Drill is a HTTP load testing application inspired by Ansible syntax, written in `Rust`
 * [__fasthttploader__](https://github.com/hagen1778/fasthttploader) – benchmark (kinda ab) with autoadjustment and charts based on fasthttp library, written in Go (`golang`)
 * [__fbender__](https://github.com/facebookincubator/fbender) – A load-testing command line tool for generic network protocols (`HTTP`, `DNS`, `DHCP`, …), written in Go (`golang`)
