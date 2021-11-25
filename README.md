@@ -13,6 +13,7 @@ HTTP(S) Benchmark Tools
 * [__bombardier__](https://github.com/codesenberg/bombardier) – Fast crossplatform HTTP benchmarking tool, written in Go (`golang`)
 * [__cassowary__](https://github.com/rogerwelin/cassowary) – is a modern HTTP(S), intuitive & cross-platform load testing tool, written in Go (`golang`)
 * [__curl-loader__](http://curl-loader.sourceforge.net/) – performance loading of various application services and traffic generation, written in `C`
+* [__ddosify__](https://github.com/ddosify/ddosify) – High-performance load testing tool, written in Go (`golang`)
 * [__drill__](https://github.com/fcsonline/drill) – Drill is a HTTP load testing application inspired by Ansible syntax, written in `Rust`
 * [__fasthttploader__](https://github.com/hagen1778/fasthttploader) – benchmark (kinda ab) with autoadjustment and charts based on fasthttp library, written in Go (`golang`)
 * [__fbender__](https://github.com/facebookincubator/fbender) – A load-testing command line tool for generic network protocols (`HTTP`, `DNS`, `DHCP`, …), written in Go (`golang`)
@@ -36,8 +37,15 @@ HTTP(S) Benchmark Tools
 * [__lor-axe__](https://github.com/ajmwagar/lor-axe) – A multi-threaded, low-bandwidth HTTP Slowloris DoS tool that handles connections and sockets in parallel, written in `Rust`
 * [__mgun__](https://github.com/byorty/mgun) – A modern tool for load testing HTTP servers, written in Go (`golang`)
 * [__molotov__](https://github.com/loads/molotov) - A simple `Python` 3.6+ tool to write load tests
+* [__NBomber__](https://github.com/PragmaticFlow/NBomber) – Modern and flexible load testing framework for Pull and Push scenarios, designed to test any system regardless a protocol (HTTP/WebSockets/AMQP etc) or a semantic model (Pull/Push), written in F# (`F Sharp`)
+* [__Netling__](https://github.com/hallatore/Netling) – Netling is a load tester client for easy web testing., written in C# (`C Sharp`)
 * [__oha__](https://github.com/hatoo/oha) – HTTP load generator, inspired by rakyll/hey with tui animation, written in `Rust`
+* [__pewpew__](https://github.com/bengadbois/pewpew) - Flexible HTTP command line stress testing tool for websites and web services, written in Go (`golang`)
+* [__plow__](https://github.com/six-ddc/plow) – A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying, written in Go (`golang`)
 * [__pounce__](https://github.com/fredrikwidlund/pounce) – event-driven with a similar interface as `wrk` but with the ambition to potentially achieve lower latency and higher throughout, written in `C`
+* [__rewrk__](https://github.com/ChillFish8/rewrk) – A more modern http framework benchmarker supporting HTTP/1 and HTTP/2 benchmarks, written in `Rust`.
+* [__reqstress__](https://github.com/utkusen/reqstress) – a benchmarking&stressing tool that can send raw HTTP requests, written in Go (`golang`).
+* [__salvo__](https://github.com/tarekziade/salvo) - A simple HTTP(S) load testing tool like [boom](https://github.com/tarekziade/boom), but based on [molotov](https://github.com/loads/molotov). `Python`
 * [__siege__](http://www.joedog.org/siege-home/) – slow and single threaded, written in `C`
 * [__slapper__](https://github.com/ikruglov/slapper) – Simple load testing tool with real-time updated histogram of request timings, written in Go (`golang`)
 * [__slow_cooker__](https://github.com/BuoyantIO/slow_cooker) – A load tester focused on lifecycle issues and long-running tests, service with a predictable load and concurrency level for a long period of time, written in Go (`golang`)
