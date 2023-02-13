@@ -10,6 +10,7 @@ HTTP(S) Benchmark Tools
 * [__autocannon__](https://github.com/mcollina/autocannon) – fast HTTP/1.1 benchmarking tool written in Node.js
 * [__baloo__](https://github.com/h2non/baloo) – Expressive end-to-end HTTP API testing made easy, written in Go (`golang`)
 * [__baton__](https://github.com/americanexpress/baton) – HTTP load testing, written in Go (`golang`)
+* [__Bencher__](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
 * [__bombardier__](https://github.com/codesenberg/bombardier) – Fast crossplatform HTTP benchmarking tool, written in Go (`golang`)
 * [__cassowary__](https://github.com/rogerwelin/cassowary) – is a modern HTTP(S), intuitive & cross-platform load testing tool, written in Go (`golang`)
 * [__curl-loader__](http://curl-loader.sourceforge.net/) – performance loading of various application services and traffic generation, written in `C`
