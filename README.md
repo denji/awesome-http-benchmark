@@ -4,7 +4,7 @@ HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 
 HTTP(S) Benchmark Tools
 =======================
-* [__ab__](http://en.wikipedia.org/wiki/ApacheBench) – slow and single threaded, written in `C`
+* [__ab__](http://en.wikipedia.org/wiki/ApacheBench) – slow in single-threaded can be made more efficient by [`taskset`](https://man7.org/linux/man-pages/man1/taskset.1.html), written in `C`
 * [__ali__](https://github.com/nakabonne/ali) – Generate HTTP load and plot the results in real-time, written in Go (`golang`)
 * [__apib__](https://github.com/apigee/apib) – most of the features of ApacheBench (`ab`), also designed as a [more modern replacement](https://github.com/apigee/apib#design), written in `C`
 * [__autocannon__](https://github.com/mcollina/autocannon) – fast HTTP/1.1 benchmarking tool written in Node.js
