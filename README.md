@@ -30,7 +30,7 @@ HTTP(S) Benchmark Tools
 * [__hey__](https://github.com/rakyll/hey) – HTTP(S) load generator, ApacheBench (`ab`) replacement, formerly known as [__rakyll/boom__](https://github.com/rakyll/boom), written in Go (`golang`)
 * [__htstress__](https://github.com/arut/htstress) – multithreading high-load bechmarking services (>5K rps), written in `C`/`Linux`
 * [__httperf__](https://github.com/httperf/httperf) – difficult configuration, slow and single threaded, written in `C`
-* [__httping__](https://github.com/flok99/httping) - Ping with HTTP requests, see http://www.vanheusden.com/httping/, written in `C`
+* [__httping__](https://github.com/folkertvanheusden/httping) - Ping with HTTP requests, see http://www.vanheusden.com/httping/, written in `C`
 * [__httpit__](https://github.com/gonetx/httpit) - A rapid http(s) benchmark tool, written in `golang`
 * [__inundator__](https://github.com/opsengine/inundator) – A simple and high-throughput HTTP flood program, written in `C`/`Linux`
 * [__jmeter__](http://jmeter.apache.org/) – Apache  JMeter™, pure application designed to load test performance both on static and dynamic resources, written in `Java`
