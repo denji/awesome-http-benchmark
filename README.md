@@ -83,6 +83,8 @@ Toolkit for testing/debugging HTTP(S) and restAPI (RESTful)
 * [__jaggr__](https://github.com/rs/jaggr) – JSON Aggregation CLI, Jaggr can be used to integrate [vegeta](https://github.com/tsenart/vegeta) with [jplot](https://github.com/rs/jplot), written in Go (`golang`)
 * [__jq__](https://github.com/stedolan/jq) – is a lightweight and flexible command-line JSON processor, written in `C`
 * https://github.com/marmelab/awesome-rest
+* https://github.com/stepci/awesome-api-clients
+* https://github.com/mrmykey/awesome-http-clients
 
 SaaS/PaaS
 =========
