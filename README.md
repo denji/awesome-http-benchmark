@@ -54,7 +54,7 @@ HTTP(S) Benchmark Tools
 * [__slowhttptest__](https://github.com/shekyan/slowhttptest) – Application Layer DoS attack simulator, written in `C++`
 * [__sniper__](https://github.com/lubia/sniper) – powerful & high-performance http load tester, written in Go (`golang`)
 * [__thrash__](https://github.com/TylerBrock/thrash) – HTTP Micro Benchmarker, written in Go (`golang`)
-* [__tquic_client__](https://crates.io/crates/tquic_tools) – An high-performance HTTP/3 benchmarking tool, written in `Rust`
+* [__tquic_client__](https://crates.io/crates/tquic_tools) – A high-performance HTTP/3 benchmarking tool, written in `Rust`
 * [__tsung__](http://tsung.erlang-projects.org/) – Simulate stress users in order to test the scalability and performance of IP based client/server applications `HTTP`, `WebDAV`, `SOAP`, `PostgreSQL`, `MySQL`, `LDAP` and `Jabber`/`XMPP` servers, written in `Erlang`
 * [__vegeta__](https://github.com/tsenart/vegeta) – HTTP load testing tool and library, written in Go (`golang`)
 * [__weighttp__](https://github.com/lighttpd/weighttp) – multithreaded, but slower than htstress without keepalive, written in `C`
