@@ -94,3 +94,4 @@ SaaS/PaaS
 * [__NGINX Amplify__](https://amplify.nginx.com/) – Visually identify performance bottlenecks, overloaded servers, or potential DDoS attacks. Improve and optimize NGINX performance with intelligent advice and recommendations. Get alerts when something is wrong with the delivery of your application. Plan capacity and performance for web applications. Keep track of systems running NGINX [<sup>1</sup>](https://www.nginx.com/blog/announcing-amplify/)
 * [__k6.io__](https://k6.io/) - Open source load testing tool and SaaS for engineering teams. Powerful scripting and lots of CI/CD integration.
 * [__RedLine13__](https://redline13.com/) - Cloud Based Load Testing to run JMeter, Gatling, or custom code load test plans at scale using low cost instance pricing.
+* [__tracetest__](https://tracetest.io) – Use OpenTelemetry for testing and synthetic monitoring. Write your tests using `YAML`
