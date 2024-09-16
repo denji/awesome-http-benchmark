@@ -54,7 +54,6 @@ HTTP(S) Benchmark Tools
 * [__slowhttptest__](https://github.com/shekyan/slowhttptest) – Application Layer DoS attack simulator, written in `C++`
 * [__sniper__](https://github.com/lubia/sniper) – powerful & high-performance http load tester, written in Go (`golang`)
 * [__thrash__](https://github.com/TylerBrock/thrash) – HTTP Micro Benchmarker, written in Go (`golang`)
-* [__tracetest__](https://tracetest.io) – Use OpenTelemetry for testing and synthetic monitoring. Write your tests using `YAML`
 * [__tsung__](http://tsung.erlang-projects.org/) – Simulate stress users in order to test the scalability and performance of IP based client/server applications `HTTP`, `WebDAV`, `SOAP`, `PostgreSQL`, `MySQL`, `LDAP` and `Jabber`/`XMPP` servers, written in `Erlang`
 * [__vegeta__](https://github.com/tsenart/vegeta) – HTTP load testing tool and library, written in Go (`golang`)
 * [__weighttp__](https://github.com/lighttpd/weighttp) – multithreaded, but slower than htstress without keepalive, written in `C`
@@ -95,3 +94,4 @@ SaaS/PaaS
 * [__NGINX Amplify__](https://amplify.nginx.com/) – Visually identify performance bottlenecks, overloaded servers, or potential DDoS attacks. Improve and optimize NGINX performance with intelligent advice and recommendations. Get alerts when something is wrong with the delivery of your application. Plan capacity and performance for web applications. Keep track of systems running NGINX [<sup>1</sup>](https://www.nginx.com/blog/announcing-amplify/)
 * [__k6.io__](https://k6.io/) - Open source load testing tool and SaaS for engineering teams. Powerful scripting and lots of CI/CD integration.
 * [__RedLine13__](https://redline13.com/) - Cloud Based Load Testing to run JMeter, Gatling, or custom code load test plans at scale using low cost instance pricing.
+* [__tracetest__](https://tracetest.io) – Use OpenTelemetry for testing and synthetic monitoring. Write your tests using `YAML`
