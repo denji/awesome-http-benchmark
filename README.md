@@ -78,6 +78,7 @@ Toolkit for testing/debugging HTTP(S) and restAPI (RESTful)
 * [__httpie__](https://github.com/jkbrzt/httpie) – client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, written in `Python`
   * [__curlie__](https://curlie.io) – If you like the interface of [HTTPie](https://httpie.org) but miss the features of [curl](https://curl.haxx.se), curlie is what you are searching for. Curlie is a drop-in replacement for `httpie` that use `curl` to perform operations, written in Go (`golang`)
   * [__xh__](https://github.com/ducaale/xh) – Yet another [HTTPie](https://httpie.org) clone, written in `Rust`
+* [__HttpMaster__](https://www.httpmaster.net) - Professional desktop tool for HTTP testing and debugging.
 * [__httpstat__](https://github.com/reorx/httpstat) - It's like curl -v, with colours
 * [__hurl__](https://github.com/Orange-OpenSource/hurl) - Hurl is a command line tool that runs HTTP requests defined in a simple plain text format
 * [__insomnia__](https://insomnia.rest/) - simple, beautiful, and free Desktop REST API client (`Mac`, `Windows`, and `Linux`)
