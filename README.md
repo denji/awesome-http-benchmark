@@ -70,15 +70,16 @@ HTTP(S) Benchmark Tools
 Toolkit for testing/debugging HTTP(S) and restAPI (RESTful)
 ===========================================================
 * [__bat__](https://github.com/astaxie/bat) – Go implement CLI, cURL-like tool for humans, written in Go (`golang`)
-* * [__Bruno__](https://www.usebruno.com/) – is a Fast and Git-Friendly Opensource API client
+* [__Bruno__](https://www.usebruno.com/) – is a Fast and Git-Friendly Opensource API client
 * [__curl__](https://github.com/curl/curl) – Powerful features command-line tool for transferring data specified with URL syntax, written in `C`
   - [Online curl command line builde](https://curlbuilder.com/)
 * [__curlconverter__](https://github.com/NickCarneiro/curlconverter) – convert curl commands to python, javascript, php
 * [__hoppscotch__](https://github.com/hoppscotch/hoppscotch) - API request builder
 * [__DeepfakeHTTP__](https://github.com/xnbox/DeepfakeHTTP) – is a web server that uses HTTP dumps as a source for responses, written in `Java`
 * [__httpie__](https://github.com/jkbrzt/httpie) – client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, written in `Python`
-  * [__curlie__](https://curlie.io) – If you like the interface of [HTTPie](https://httpie.org) but miss the features of [curl](https://curl.haxx.se), curlie is what you are searching for. Curlie is a drop-in replacement for `httpie` that use `curl` to perform operations, written in Go (`golang`)
-  * [__xh__](https://github.com/ducaale/xh) – Yet another [HTTPie](https://httpie.org) clone, written in `Rust`
+* [__HTTPie Desktop__](https://httpie.io/docs/desktop) – HTTPie Desktop is a cross-platform API testing client for humans. Use it to test REST, GraphQL, and HTTP APIs painlessly.
+* [__curlie__](https://curlie.io) – If you like the interface of [HTTPie](https://httpie.org) but miss the features of [curl](https://curl.haxx.se), curlie is what you are searching for. Curlie is a drop-in replacement for `httpie` that use `curl` to perform operations, written in Go (`golang`)
+* [__xh__](https://github.com/ducaale/xh) – Yet another [HTTPie](https://httpie.org) clone, written in `Rust`
 * [__httpstat__](https://github.com/reorx/httpstat) - It's like curl -v, with colours
 * [__hurl__](https://github.com/Orange-OpenSource/hurl) - Hurl is a command line tool that runs HTTP requests defined in a simple plain text format
 * [__insomnia__](https://insomnia.rest/) - simple, beautiful, and free Desktop REST API client (`Mac`, `Windows`, and `Linux`)
