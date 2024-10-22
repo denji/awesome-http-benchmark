@@ -70,6 +70,7 @@ HTTP(S) Benchmark Tools
 Toolkit for testing/debugging HTTP(S) and restAPI (RESTful)
 ===========================================================
 * [__bat__](https://github.com/astaxie/bat) – Go implement CLI, cURL-like tool for humans, written in Go (`golang`)
+* * [__Bruno__](https://www.usebruno.com/) – is a Fast and Git-Friendly Opensource API client
 * [__curl__](https://github.com/curl/curl) – Powerful features command-line tool for transferring data specified with URL syntax, written in `C`
   - [Online curl command line builde](https://curlbuilder.com/)
 * [__curlconverter__](https://github.com/NickCarneiro/curlconverter) – convert curl commands to python, javascript, php
