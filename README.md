@@ -45,6 +45,7 @@ HTTP(S) Benchmark Tools
 * [__pewpew__](https://github.com/bengadbois/pewpew) - Flexible HTTP command line stress testing tool for websites and web services, written in Go (`golang`)
 * [__plow__](https://github.com/six-ddc/plow) – A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying, written in Go (`golang`)
 * [__pounce__](https://github.com/fredrikwidlund/pounce) – event-driven with a similar interface as `wrk` but with the ambition to potentially achieve lower latency and higher throughout, written in `C`
+* [__RapidAPI (Paw)__](https://paw.cloud/) - for Mac is a full-featured HTTP client that lets you test and describe the APIs you build or consume.
 * [__rewrk__](https://github.com/ChillFish8/rewrk) – A more modern http framework benchmarker supporting HTTP/1 and HTTP/2 benchmarks, written in `Rust`.
 * [__reqstress__](https://github.com/utkusen/reqstress) – a benchmarking&stressing tool that can send raw HTTP requests, written in Go (`golang`).
 * [__salvo__](https://github.com/tarekziade/salvo) - A simple HTTP(S) load testing tool like [boom](https://github.com/tarekziade/boom), but based on [molotov](https://github.com/loads/molotov). `Python`
