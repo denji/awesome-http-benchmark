@@ -86,6 +86,7 @@ Toolkit for testing/debugging HTTP(S) and restAPI (RESTful)
 * [__insomnia__](https://insomnia.rest/) - simple, beautiful, and free Desktop REST API client (`Mac`, `Windows`, and `Linux`)
 * [__jaggr__](https://github.com/rs/jaggr) – JSON Aggregation CLI, Jaggr can be used to integrate [vegeta](https://github.com/tsenart/vegeta) with [jplot](https://github.com/rs/jplot), written in Go (`golang`)
 * [__jq__](https://github.com/stedolan/jq) – is a lightweight and flexible command-line JSON processor, written in `C`
+* [__Yaak__](https://yaak.app/) – API client for modern developers, Call REST, GraphQL, SSE, and gRPC APIs from a simple and intuitive app.
 * https://github.com/marmelab/awesome-rest
 * https://github.com/stepci/awesome-api-clients
 * https://github.com/mrmykey/awesome-http-clients
