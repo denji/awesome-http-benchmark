@@ -67,6 +67,7 @@ HTTP(S) Benchmark Tools
         And keepalive (which is default) can be disabled using:
           -H "Connection: close"
 * [__yandex-tank__](https://github.com/yandex/yandex-tank) – Load and performance benchmark tool, written in `Python`/`C|C++|Asm` ([phantom](https://github.com/yandex-load/phantom))
+* `seq 0 10000 | xargs -P 100 -I {} curl http://localhost:8080/` - Benchmarking in restricted environments, using GNU toolchain
 
 Toolkit for testing/debugging HTTP(S) and restAPI (RESTful)
 ===========================================================
