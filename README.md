@@ -45,6 +45,7 @@ HTTP(S) Benchmark Tools
 * [__pewpew__](https://github.com/bengadbois/pewpew) - Flexible HTTP command line stress testing tool for websites and web services, written in Go (`golang`)
 * [__plow__](https://github.com/six-ddc/plow) – A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying, written in Go (`golang`)
 * [__pounce__](https://github.com/fredrikwidlund/pounce) – event-driven with a similar interface as `wrk` but with the ambition to potentially achieve lower latency and higher throughout, written in `C`
+* [__RapidAPI (Paw)__](https://paw.cloud/) - for Mac is a full-featured HTTP client that lets you test and describe the APIs you build or consume.
 * [__rewrk__](https://github.com/ChillFish8/rewrk) – A more modern http framework benchmarker supporting HTTP/1 and HTTP/2 benchmarks, written in `Rust`.
 * [__reqstress__](https://github.com/utkusen/reqstress) – a benchmarking&stressing tool that can send raw HTTP requests, written in Go (`golang`).
 * [__salvo__](https://github.com/tarekziade/salvo) - A simple HTTP(S) load testing tool like [boom](https://github.com/tarekziade/boom), but based on [molotov](https://github.com/loads/molotov). `Python`
@@ -54,6 +55,7 @@ HTTP(S) Benchmark Tools
 * [__slowhttptest__](https://github.com/shekyan/slowhttptest) – Application Layer DoS attack simulator, written in `C++`
 * [__sniper__](https://github.com/lubia/sniper) – powerful & high-performance http load tester, written in Go (`golang`)
 * [__thrash__](https://github.com/TylerBrock/thrash) – HTTP Micro Benchmarker, written in Go (`golang`)
+* [__tquic_client__](https://crates.io/crates/tquic_tools) – A high-performance HTTP/3 benchmarking tool, written in `Rust`
 * [__tsung__](http://tsung.erlang-projects.org/) – Simulate stress users in order to test the scalability and performance of IP based client/server applications `HTTP`, `WebDAV`, `SOAP`, `PostgreSQL`, `MySQL`, `LDAP` and `Jabber`/`XMPP` servers, written in `Erlang`
 * [__vegeta__](https://github.com/tsenart/vegeta) – HTTP load testing tool and library, written in Go (`golang`)
 * [__weighttp__](https://github.com/lighttpd/weighttp) – multithreaded, but slower than htstress without keepalive, written in `C`
@@ -66,24 +68,29 @@ HTTP(S) Benchmark Tools
         And keepalive (which is default) can be disabled using:
           -H "Connection: close"
 * [__yandex-tank__](https://github.com/yandex/yandex-tank) – Load and performance benchmark tool, written in `Python`/`C|C++|Asm` ([phantom](https://github.com/yandex-load/phantom))
+* `seq 0 10000 | xargs -P 100 -I {} curl http://localhost:8080/` - Benchmarking in restricted environments, using GNU toolchain
 
 Toolkit for testing/debugging HTTP(S) and restAPI (RESTful)
 ===========================================================
 * [__bat__](https://github.com/astaxie/bat) – Go implement CLI, cURL-like tool for humans, written in Go (`golang`)
+* [__Bruno__](https://www.usebruno.com/) – is a Fast and Git-Friendly Opensource API client
 * [__curl__](https://github.com/curl/curl) – Powerful features command-line tool for transferring data specified with URL syntax, written in `C`
   - [Online curl command line builde](https://curlbuilder.com/)
 * [__curlconverter__](https://github.com/NickCarneiro/curlconverter) – convert curl commands to python, javascript, php
 * [__hoppscotch__](https://github.com/hoppscotch/hoppscotch) - API request builder
 * [__DeepfakeHTTP__](https://github.com/xnbox/DeepfakeHTTP) – is a web server that uses HTTP dumps as a source for responses, written in `Java`
 * [__httpie__](https://github.com/jkbrzt/httpie) – client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, written in `Python`
-  * [__curlie__](https://curlie.io) – If you like the interface of [HTTPie](https://httpie.org) but miss the features of [curl](https://curl.haxx.se), curlie is what you are searching for. Curlie is a drop-in replacement for `httpie` that use `curl` to perform operations, written in Go (`golang`)
-  * [__xh__](https://github.com/ducaale/xh) – Yet another [HTTPie](https://httpie.org) clone, written in `Rust`
+* [__HTTPie Desktop__](https://httpie.io/desktop) – HTTPie Desktop is a cross-platform API testing client for humans. Use it to test REST, GraphQL, and HTTP APIs painlessly.
 * [__HttpMaster__](https://www.httpmaster.net) - Professional desktop tool for HTTP testing and debugging.
+* [__curlie__](https://curlie.io) – If you like the interface of [HTTPie](https://httpie.org) but miss the features of [curl](https://curl.haxx.se), curlie is what you are searching for. Curlie is a drop-in replacement for `httpie` that use `curl` to perform operations, written in Go (`golang`)
+* [__xh__](https://github.com/ducaale/xh) – Yet another [HTTPie](https://httpie.org) clone, written in `Rust`
 * [__httpstat__](https://github.com/reorx/httpstat) - It's like curl -v, with colours
 * [__hurl__](https://github.com/Orange-OpenSource/hurl) - Hurl is a command line tool that runs HTTP requests defined in a simple plain text format
 * [__insomnia__](https://insomnia.rest/) - simple, beautiful, and free Desktop REST API client (`Mac`, `Windows`, and `Linux`)
 * [__jaggr__](https://github.com/rs/jaggr) – JSON Aggregation CLI, Jaggr can be used to integrate [vegeta](https://github.com/tsenart/vegeta) with [jplot](https://github.com/rs/jplot), written in Go (`golang`)
 * [__jq__](https://github.com/stedolan/jq) – is a lightweight and flexible command-line JSON processor, written in `C`
+* [__Proxyman__](https://proxyman.io/) - Capture HTTP(s) in a few clicks. Best-in-class native macOS app to capture, decrypt, and mock your HTTP(s) requests/ responses with powerful debugging tools.
+* [__Yaak__](https://yaak.app/) – API client for modern developers, Call REST, GraphQL, SSE, and gRPC APIs from a simple and intuitive app.
 * https://github.com/marmelab/awesome-rest
 * https://github.com/stepci/awesome-api-clients
 * https://github.com/mrmykey/awesome-http-clients
@@ -95,3 +102,4 @@ SaaS/PaaS
 * [__NGINX Amplify__](https://amplify.nginx.com/) – Visually identify performance bottlenecks, overloaded servers, or potential DDoS attacks. Improve and optimize NGINX performance with intelligent advice and recommendations. Get alerts when something is wrong with the delivery of your application. Plan capacity and performance for web applications. Keep track of systems running NGINX [<sup>1</sup>](https://www.nginx.com/blog/announcing-amplify/)
 * [__k6.io__](https://k6.io/) - Open source load testing tool and SaaS for engineering teams. Powerful scripting and lots of CI/CD integration.
 * [__RedLine13__](https://redline13.com/) - Cloud Based Load Testing to run JMeter, Gatling, or custom code load test plans at scale using low cost instance pricing.
+* [__tracetest__](https://tracetest.io) – Use OpenTelemetry for testing and synthetic monitoring. Write your tests using `YAML`
