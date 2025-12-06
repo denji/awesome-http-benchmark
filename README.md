@@ -103,3 +103,7 @@ SaaS/PaaS
 * [__k6.io__](https://k6.io/) - Open source load testing tool and SaaS for engineering teams. Powerful scripting and lots of CI/CD integration.
 * [__RedLine13__](https://redline13.com/) - Cloud Based Load Testing to run JMeter, Gatling, or custom code load test plans at scale using low cost instance pricing.
 * [__tracetest__](https://tracetest.io) – Use OpenTelemetry for testing and synthetic monitoring. Write your tests using `YAML`
+
+Additional tools and inspiration collection
+===========================================
+* https://github.com/aliesbelik/load-testing-toolkit
