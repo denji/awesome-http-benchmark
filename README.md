@@ -77,6 +77,7 @@ Toolkit for testing/debugging HTTP(S) and restAPI (RESTful)
 * [__curl__](https://github.com/curl/curl) – Powerful features command-line tool for transferring data specified with URL syntax, written in `C`
   - [Online curl command line builde](https://curlbuilder.com/)
 * [__curlconverter__](https://github.com/NickCarneiro/curlconverter) – convert curl commands to python, javascript, php
+* [__hitt__](https://github.com/hougesen/hitt) - File based HTTP testing tool focused on speed and simplicity, written in `Rust`
 * [__hoppscotch__](https://github.com/hoppscotch/hoppscotch) - API request builder
 * [__DeepfakeHTTP__](https://github.com/xnbox/DeepfakeHTTP) – is a web server that uses HTTP dumps as a source for responses, written in `Java`
 * [__httpie__](https://github.com/jkbrzt/httpie) – client, user-friendly curl replacement with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, written in `Python`
