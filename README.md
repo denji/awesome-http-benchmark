@@ -49,6 +49,7 @@ HTTP(S) Benchmark Tools
 * [__rewrk__](https://github.com/ChillFish8/rewrk) – A more modern http framework benchmarker supporting HTTP/1 and HTTP/2 benchmarks, written in `Rust`.
 * [__reqstress__](https://github.com/utkusen/reqstress) – a benchmarking&stressing tool that can send raw HTTP requests, written in Go (`golang`).
 * [__salvo__](https://github.com/tarekziade/salvo) - A simple HTTP(S) load testing tool like [boom](https://github.com/tarekziade/boom), but based on [molotov](https://github.com/loads/molotov). `Python`
+* [__sarin__](https://github.com/aykhans/sarin) – A high-performance HTTP load testing tool with templating support, built with fasthttp, written in Go (`golang`)
 * [__siege__](http://www.joedog.org/siege-home/) – multithreaded concurrent connections and slow single-user, written in `C`
 * [__slapper__](https://github.com/ikruglov/slapper) – Simple load testing tool with real-time updated histogram of request timings, written in Go (`golang`)
 * [__slow_cooker__](https://github.com/BuoyantIO/slow_cooker) – A load tester focused on lifecycle issues and long-running tests, service with a predictable load and concurrency level for a long period of time, written in Go (`golang`)
