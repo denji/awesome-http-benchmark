@@ -91,6 +91,7 @@ Toolkit for testing/debugging HTTP(S) and restAPI (RESTful)
 * [__jq__](https://github.com/stedolan/jq) – is a lightweight and flexible command-line JSON processor, written in `C`
 * [__Keploy__](https://github.com/keploy/keploy) - Open source ai testing platform that records user traffic as test cases and mocks (infrastructure virtualisation along withDBs) and uses AI to expand the API, schema and code coverage of the backend regression test suite. It also auto-generates tests with assertions and is used for contract testing, functional and performance testing using AI.
 * [__Proxyman__](https://proxyman.io/) - Capture HTTP(s) in a few clicks. Best-in-class native macOS app to capture, decrypt, and mock your HTTP(s) requests/ responses with powerful debugging tools.
+* [__Webhook Debugger, Logger & API Mocking Suite__](https://apify.com/ar27111994/webhook-debugger-logger) – Enterprise-grade tool for testing, debugging, and logging incoming webhooks in real-time, written in Node.js.
 * [__Yaak__](https://yaak.app/) – API client for modern developers, Call REST, GraphQL, SSE, and gRPC APIs from a simple and intuitive app.
 * https://github.com/marmelab/awesome-rest
 * https://github.com/stepci/awesome-api-clients
