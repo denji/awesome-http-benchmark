@@ -95,6 +95,7 @@ Toolkit for testing/debugging HTTP(S) and restAPI (RESTful)
 * https://github.com/marmelab/awesome-rest
 * https://github.com/stepci/awesome-api-clients
 * https://github.com/mrmykey/awesome-http-clients
+* [__PageGuard__](https://pageguard.org) - Real-world website performance analysis. Measures page load times, Core Web Vitals, and HTTP performance. Free scanning tool.
 
 SaaS/PaaS
 =========
