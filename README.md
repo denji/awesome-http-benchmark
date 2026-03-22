@@ -86,6 +86,7 @@ Toolkit for testing/debugging HTTP(S) and restAPI (RESTful)
 * [__xh__](https://github.com/ducaale/xh) – Yet another [HTTPie](https://httpie.org) clone, written in `Rust`
 * [__httpstat__](https://github.com/reorx/httpstat) - It's like curl -v, with colours
 * [__hurl__](https://github.com/Orange-OpenSource/hurl) - Hurl is a command line tool that runs HTTP requests defined in a simple plain text format
+* [__redirect-checker__](https://github.com/brancogao/redirect-checker) – HTTP redirect chain analyzer, detect redirect loops, measure performance, multiple User-Agent presets, written in `TypeScript` (Cloudflare Workers)
 * [__insomnia__](https://insomnia.rest/) - simple, beautiful, and free Desktop REST API client (`Mac`, `Windows`, and `Linux`)
 * [__jaggr__](https://github.com/rs/jaggr) – JSON Aggregation CLI, Jaggr can be used to integrate [vegeta](https://github.com/tsenart/vegeta) with [jplot](https://github.com/rs/jplot), written in Go (`golang`)
 * [__jq__](https://github.com/stedolan/jq) – is a lightweight and flexible command-line JSON processor, written in `C`
