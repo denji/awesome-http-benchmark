@@ -13,6 +13,7 @@ HTTP(S) Benchmark Tools
 * [__Bencher__](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
 * [__bombardier__](https://github.com/codesenberg/bombardier) – Fast crossplatform HTTP benchmarking tool, written in Go (`golang`)
 * [__cassowary__](https://github.com/rogerwelin/cassowary) – is a modern HTTP(S), intuitive & cross-platform load testing tool, written in Go (`golang`)
+* [__cryload__](https://github.com/sdogruyol/cryload) – Cross-platform HTTP load testing CLI, `ab`/`wrk` alternative with JSON/CSV output for CI/CD, written in `Crystal`
 * [__curl-loader__](http://curl-loader.sourceforge.net/) – performance loading of various application services and traffic generation, written in `C`
 * [__ddosify__](https://github.com/ddosify/ddosify) – High-performance load testing tool, written in Go (`golang`)
 * [__drill__](https://github.com/fcsonline/drill) – Drill is a HTTP load testing application inspired by Ansible syntax, written in `Rust`
