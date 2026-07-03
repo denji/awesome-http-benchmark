@@ -73,6 +73,7 @@ HTTP(S) Benchmark Tools
 
 Toolkit for testing/debugging HTTP(S) and restAPI (RESTful)
 ===========================================================
+* [__agent-qa__](https://github.com/vostride/agent-qa) – Self-improving QA agent for natural-language web and mobile regression tests, written in `TypeScript`
 * [__bat__](https://github.com/astaxie/bat) – Go implement CLI, cURL-like tool for humans, written in Go (`golang`)
 * [__Bruno__](https://www.usebruno.com/) – is a Fast and Git-Friendly Opensource API client
 * [__curl__](https://github.com/curl/curl) – Powerful features command-line tool for transferring data specified with URL syntax, written in `C`
