@@ -11,6 +11,7 @@ HTTP(S) Benchmark Tools
 * [__baloo__](https://github.com/h2non/baloo) – Expressive end-to-end HTTP API testing made easy, written in Go (`golang`)
 * [__baton__](https://github.com/americanexpress/baton) – HTTP load testing, written in Go (`golang`)
 * [__Bencher__](https://bencher.dev/) - A suite of continuous benchmarking tools designed to catch performance regressions in CI
+* [__httpstat__](https://github.com/milishiajay/httpstat) – HTTP benchmarking CLI with latency percentiles, concurrency support, and JSON export, written in `Python`
 * [__bombardier__](https://github.com/codesenberg/bombardier) – Fast crossplatform HTTP benchmarking tool, written in Go (`golang`)
 * [__cassowary__](https://github.com/rogerwelin/cassowary) – is a modern HTTP(S), intuitive & cross-platform load testing tool, written in Go (`golang`)
 * [__cryload__](https://github.com/sdogruyol/cryload) – Cross-platform HTTP load testing CLI, `ab`/`wrk` alternative with JSON/CSV output for CI/CD, written in `Crystal`
