@@ -63,12 +63,12 @@ HTTP(S) Benchmark Tools
 * [__welle__](https://github.com/rylev/welle) – ab (Apache Benchmark) like tool, written in `Rust`
 * [__wrk__](https://github.com/wg/wrk) – multithreaded, ~~but doesn't offer concurrent connections and a keepalive switch~~, written in `C`/`Lua`
 * [__wrk2__](https://github.com/giltene/wrk2) – constant throughput, correct latency recording variant of wrk, written in `C`/`Lua`
-
         Concurrent connections are enabled with:
           -c, --connections <N>  Connections to keep open
         And keepalive (which is default) can be disabled using:
           -H "Connection: close"
 * [__yandex-tank__](https://github.com/yandex/yandex-tank) – Load and performance benchmark tool, written in `Python`/`C|C++|Asm` ([phantom](https://github.com/yandex-load/phantom))
+* [__zrk__](https://github.com/zoxy-io/zrk) - A constant-throughput load generator in Zig ⚡
 * `seq 0 10000 | xargs -P 100 -I {} curl http://localhost:8080/` - Benchmarking in restricted environments, using GNU toolchain
 
 Toolkit for testing/debugging HTTP(S) and restAPI (RESTful)
