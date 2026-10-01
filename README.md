@@ -95,6 +95,7 @@ Toolkit for testing/debugging HTTP(S) and restAPI (RESTful)
 * [__jaggr__](https://github.com/rs/jaggr) – JSON Aggregation CLI, Jaggr can be used to integrate [vegeta](https://github.com/tsenart/vegeta) with [jplot](https://github.com/rs/jplot), written in Go (`golang`)
 * [__jq__](https://github.com/stedolan/jq) – is a lightweight and flexible command-line JSON processor, written in `C`
 * [__Keploy__](https://github.com/keploy/keploy) - Open source ai testing platform that records user traffic as test cases and mocks (infrastructure virtualisation along withDBs) and uses AI to expand the API, schema and code coverage of the backend regression test suite. It also auto-generates tests with assertions and is used for contract testing, functional and performance testing using AI.
+* [__Manifest API Bot__](https://manifest.build/api-bot/) – GitHub App that finds the third-party APIs your code calls, checks them for changes every day, and opens a pull request with the fix when a change affects your code
 * [__OrcaReplay__](https://github.com/Continuum-AI-Corp/OrcaReplay) – Records the HTTP traffic of an AI coding agent and serves the recording back, so the same run re-executes with no model called, written in `TypeScript`
 * [__Parsistent__](https://parsistent.com) – Free browser-based toolkit: HTTP request tester with proxy & anti-bot detection, CSS selector, XPath, regex,
   diff, JSON formatter
