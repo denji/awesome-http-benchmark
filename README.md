@@ -77,6 +77,7 @@ Toolkit for testing/debugging HTTP(S) and restAPI (RESTful)
 * [__agent-qa__](https://github.com/vostride/agent-qa) – Self-improving QA agent for natural-language web and mobile regression tests, written in `TypeScript`
 * [__bat__](https://github.com/astaxie/bat) – Go implement CLI, cURL-like tool for humans, written in Go (`golang`)
 * [__Bruno__](https://www.usebruno.com/) – is a Fast and Git-Friendly Opensource API client
+* [__check-proxy-tax__](https://github.com/600me/check-proxy-tax) – Samples a target URL through an HTTP proxy and reports usable-success rate, p50/p95 latency and effective cost per 1,000 usable requests, written in `Python`
 * [__curl__](https://github.com/curl/curl) – Powerful features command-line tool for transferring data specified with URL syntax, written in `C`
   - [Online curl command line builde](https://curlbuilder.com/)
 * [__curlconverter__](https://github.com/NickCarneiro/curlconverter) – convert curl commands to python, javascript, php
