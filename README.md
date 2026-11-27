@@ -100,6 +100,7 @@ Toolkit for testing/debugging HTTP(S) and restAPI (RESTful)
   diff, JSON formatter
 * [__Voiden__](https://voiden.md/) – Offline markdown based API client 
 * [__Proxyman__](https://proxyman.io/) - Capture HTTP(s) in a few clicks. Best-in-class native macOS app to capture, decrypt, and mock your HTTP(s) requests/ responses with powerful debugging tools.
+* [__ShipBastion VibeShield__](https://shipbastion.com/) - 109-check read-only HTTP(S), TLS 443, Mozilla Observatory CSP & client-bundle secret scanner ([MIT CLI](https://github.com/zColdWater/vibeshield-cli))
 * [__Resterm__](https://github.com/unkn0wn-root/resterm) - Terminal API client for HTTP, GraphQL, gRPC, WebSocket and SSE, built on plain `.http` files, with workflows, mocks, a CLI runner for CI, and request profiling with P95/P99 latency, written in Go (`golang`)
 * [__Webhook Debugger, Logger & API Mocking Suite__](https://apify.com/ar27111994/webhook-debugger-logger) – Enterprise-grade tool for testing, debugging, and logging incoming webhooks in real-time, written in Node.js.
 * [__Yaak__](https://yaak.app/) – API client for modern developers, Call REST, GraphQL, SSE, and gRPC APIs from a simple and intuitive app.
